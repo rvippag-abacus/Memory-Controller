@@ -1,4 +1,4 @@
-# L1 and L2 Cache Controller
+# Memory Controller RV
 
 This repository contains a Verilog implementation of an L1 and L2 cache controller. It is designed to be simulated using Icarus Verilog (iverilog) and GTKWave.
 
